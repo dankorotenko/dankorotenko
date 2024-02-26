@@ -23,5 +23,5 @@
 # Stats
 ![dankorotenko GitHub stats](https://github-readme-stats.vercel.app/api?username=dankorotenko&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankorotenko&layout=compact&hide=php&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-### 🌱 I’m currently learning Solidity
+### 🌱 I’m currently learning Astro, SolidJS
 ### 📫 How to reach me: work.korotenko@gmail.com
